@@ -1,1 +1,1 @@
-# djibmedia.github.com
+# djibmedia
